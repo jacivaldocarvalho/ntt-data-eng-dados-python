@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão do projeto com um índice adicionado para facilitar a navegação:
-
----
-
 ## Desafio de Projeto: Modelagem de Dados em Star Schema
 
 ### Índice

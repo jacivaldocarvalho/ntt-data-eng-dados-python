@@ -1,4 +1,4 @@
-# Desafio DIO - Modela Dimensional Star Schema
+# Desafio DIO - Modelagem Dimensional Star Schema
 
 ## Objetivo
 
@@ -7,7 +7,7 @@ Este projeto visa criar um diagrama dimensional no formato *Star Schema* com foc
 
  ## Índice
 
-- [Desafio DIO - Modela Dimensional Star Schema](#desafio-dio---modela-dimensional-star-schema)
+- [Desafio DIO - Modelagem Dimensional Star Schema](#desafio-dio---modelagem-dimensional-star-schema)
   - [Objetivo](#objetivo)
   - [Índice](#índice)
   - [Diagrama Relacional](#diagrama-relacional)

@@ -25,7 +25,7 @@ Este projeto visa criar um diagrama dimensional no formato *Star Schema* com foc
 ## Diagrama Relacional
 
 <div style="text-align: center;">
-    <img src="/figure/der_universidade.png" alt="Diagrama Relacional" width="500" height="400">
+    <img src="/PowerBI/Desafio4/figure/der_universidade.png" alt="Diagrama Relacional" width="500" height="400">
 </div>
 
 ## Diagrama Dimensional
@@ -33,7 +33,7 @@ Este projeto visa criar um diagrama dimensional no formato *Star Schema* com foc
 O diagrama desenvolvido segue abaixo:
 
 <div style="text-align: center;">
-    <img src="/figure/diagrama_dimensional.png" alt="Diagrama Relacional" width="600" height="500">
+    <img src="/PowerBI/Desafio4/figure/diagrama_dimensional.png" alt="Diagrama Relacional" width="600" height="500">
 </div>
 
 ### 1. Tabela Fato: Fato_Professor_Cursos

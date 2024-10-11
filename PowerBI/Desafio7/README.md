@@ -21,33 +21,33 @@ O relatório está organizado em quatro páginas. A disposição dos visuais foi
 ### Página 1: Home Page
 - **Apresentação**
   <div style="text-align: center;">
-  <img src="//PowerBI/Desafio7/figure/figure1_home.png" alt="Apresentação" width="500" height="300">
+  <img src="/PowerBI/Desafio7/figure/figure1_home.png" alt="Apresentação" width="500" height="300">
   </div>
 
 
 ### Página 2: Principal
 - **Visão geral da análise de vendas**
   <div style="text-align: center;">
-  <img src="//PowerBI/Desafio7//figure/figure2_principal.png" alt="Página Principal" width="500" height="300">
+  <img src="/PowerBI/Desafio7/figure/figure2_principal.png" alt="Página Principal" width="500" height="300">
   </div>
 
 ### Página 2: Detalhes
 - **Detalhes de vendas**
   <div style="text-align: center;">
-  <img src="//PowerBI/Desafio7//figure/figure3_detalhes.png" alt="Detalhes de vendas" width="500" height="300">
+  <img src="/PowerBI/Desafio7/figure/figure3_detalhes.png" alt="Detalhes de vendas" width="500" height="300">
   </div>
 
 ### Página 3: TOP 3
 - **Top 3 das melhores vendas**
   <div style="text-align: center;">
-  <img src="//PowerBI/Desafio7//figure/figure4_top3.png" alt="Detalhes de vendas" width="500" height="300">
+  <img src="/PowerBI/Desafio7/figure/figure4_top3.png" alt="Detalhes de vendas" width="500" height="300">
   </div>
 
 ## Animação da Apresentação das Páginas
 Para visualizar a animação que demonstra a transição entre as páginas do relatório, veja o GIF abaixo:
 
   <div style="text-align: center;">
-  <img src="//PowerBI/Desafio7//gif/desafio7_powerbi.gif" alt="Animações" width="500" height="300">
+  <img src="/PowerBI/Desafio7/gif/desafio7_powerbi.gif" alt="Animações" width="500" height="300">
   </div>
 
 ## Medidas Criadas

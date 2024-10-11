@@ -1,10 +1,11 @@
 ## Desafio de Projeto: Modelagem de Dados em Star Schema
 
+Criar um modelo de dados baseado em star schema a partir da tabela Financial Sample, utilizando DAX para definir a tabela de calendário e outras funcionalidades necessárias
+
 ### Índice
 
 - [Desafio de Projeto: Modelagem de Dados em Star Schema](#desafio-de-projeto-modelagem-de-dados-em-star-schema)
   - [Índice](#índice)
-  - [Objetivo](#objetivo)
   - [Tabelas Criadas](#tabelas-criadas)
     - [D\_Produtos](#d_produtos)
     - [D\_Produtos\_Detalhes](#d_produtos_detalhes)
@@ -14,13 +15,8 @@
     - [F\_Vendas](#f_vendas)
   - [Etapas do Projeto](#etapas-do-projeto)
   - [Funcionalidades e Funções DAX Utilizadas](#funcionalidades-e-funções-dax-utilizadas)
-  - [Documentação e Submissão](#documentação-e-submissão)
+- [Conclusão](#conclusão)
 - [Autor](#autor)
-
----
-
-### Objetivo
-Criar um modelo de dados baseado em star schema a partir da tabela Financial Sample, utilizando DAX para definir a tabela de calendário e outras funcionalidades necessárias.
 
 ---
 
@@ -127,14 +123,9 @@ Criar um modelo de dados baseado em star schema a partir da tabela Financial Sam
 
 ---
 
-### Documentação e Submissão
+## Conclusão
 
-- **Salvar projeto**: O arquivo .pbix foi salvo.
-- **Imagem do esquema**: Uma captura de tela do esquema em estrela foi criada e está disponível.
-- **Readme**: O arquivo readme foi atualizado com o processo de construção, etapas e detalhes sobre as funcionalidades e funções DAX utilizadas.
-- **Repositório no GitHub**: O projeto foi enviado para o repositório no GitHub, onde pode ser acessado por recrutadores e outros interessados.
-
----
+O projeto de modelagem de dados em star schema realizado com base na tabela Financial Sample demonstra uma abordagem estruturada e eficaz para organizar e analisar dados financeiros. A criação das tabelas de dimensão e da tabela fato proporciona uma visualização clara das relações entre diferentes elementos, facilitando análises detalhadas sobre vendas, produtos e descontos. A utilização de funções DAX, como `CALENDAR()`, `SUM()`, `AVERAGE()`, entre outras, não só enriquece o modelo, mas também potencializa a capacidade de extração de insights relevantes. Esse modelo, ao permitir uma análise temporal e categórica, oferece uma base sólida para tomadas de decisão informadas e estratégias de negócio mais eficazes.
 
 ## Autor
 

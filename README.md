@@ -15,6 +15,8 @@ Bootcamp da DIO de aprendizado em Python, análise e tratamento de dados e cria�
 
 - [Desafio 6 - Atualizando Relatório Financeiro com Foco na Experiência do Usuário ](/PowerBI/Desafio6/)
 
+- [Desafio 6 - Projeto de vendas para Data Analytics com Power BI ](/PowerBI/Desafio7/)
+
 
 
 

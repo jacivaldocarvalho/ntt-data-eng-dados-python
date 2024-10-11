@@ -21,11 +21,12 @@ Este projeto visa criar um diagrama dimensional no formato *Star Schema* com foc
       - [2.4 Dimensão: D\_Aluno](#24-dimensão-d_aluno)
   - [Considerações Finais](#considerações-finais)
   - [Conclusão](#conclusão)
+  - [Conclusão](#conclusão-1)
 
 ## Diagrama Relacional
 
 <div style="text-align: center;">
-    <img src="/PowerBI/Desafio4/figure/der_universidade.png" alt="Diagrama Relacional" width="500" height="400">
+    <img src="/PowerBI/Desafio4/figure/der_universidade.png" alt="Diagrama Relacional" width="800" height="400">
 </div>
 
 ## Diagrama Dimensional
@@ -95,7 +96,11 @@ Esta tabela fornece informações sobre os alunos do professor.
 
 ## Considerações Finais
 
-O modelo em estrela proposto oferece uma estrutura clara para a análise de dados relacionados aos professores, permitindo consultas eficientes e insights valiosos. A tabela fato é o núcleo do esquema, enquanto as tabelas de dimensão enriquecem os dados contextuais necessários para uma análise abrangente.
+## Conclusão
+
+O projeto de modelagem dimensional no formato Star Schema apresentado neste README estabelece uma estrutura robusta para a análise de dados relacionados aos professores. A tabela fato, `Fato_Professor_Cursos`, serve como núcleo central, conectando informações cruciais sobre professores, cursos, departamentos, datas e alunos. As tabelas de dimensão complementam e contextualizam esses dados, permitindo consultas mais eficientes e uma análise abrangente. 
+
+Com a clareza e organização do modelo, espera-se que os usuários possam extrair insights valiosos que contribuam para a tomada de decisões e melhorias no ambiente educacional. Esse projeto não apenas facilita a visualização dos dados, mas também reforça a importância de uma modelagem bem estruturada na análise de informações acadêmicas.
 
 
 ## Conclusão

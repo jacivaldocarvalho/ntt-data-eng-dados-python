@@ -1,4 +1,4 @@
-# Desafio 3
+# Integração do MySQL na Azure com Python e Power BI
 
 ## Repositório
 

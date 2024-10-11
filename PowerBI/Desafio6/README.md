@@ -43,15 +43,15 @@ As diretrizes mencionadas anteriormente devem ser aplicadas de forma a melhorar 
 Segue as figuras do resultado final do projeto:
 
 <div style="text-align: center;">
-<img src="/figure/figure1_sales.png" alt="Slide sales" width="800" height="600">
+<img src="/PowerBI/Desafio6/figure/figure1_sales.png" alt="Slide sales" width="800" height="600">
 </div>
 
 <div style="text-align: center;">
-<img src="/figure/figure2_profit.png" alt="Slide profit" width="800" height="600">
+<img src="/PowerBI/Desafio6/figure/figure2_profit.png" alt="Slide profit" width="800" height="600">
 </div>
 
 <div style="text-align: center;">
-<img src="/figure/figure3_report.png" alt="report" width="800" height="600">
+<img src="/PowerBI/Desafio6/figure/figure3_report.png" alt="report" width="800" height="600">
 </div>
 
 ---

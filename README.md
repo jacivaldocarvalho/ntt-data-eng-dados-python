@@ -1,6 +1,6 @@
 # 🚀 **Bootcamp NTT Data: Engenharia de Dados com Python e Power BI**
 
-Este repositório contém os desafios propostos pelo Bootcamp da DIO em **Engenharia de Dados**, ministrado pela **NTT Data**, focado no aprendizado e aplicação de **Python**, **análise de dados**, **tratamento de dados** e **criação de dashboards interativos** com **Power BI**.
+Este repositório contém os desafios propostos pelo Bootcamp da DIO em **Engenharia de Dados** em parceria com a **NTT Data**, focado no aprendizado e aplicação de **Python**, **análise de dados**, **tratamento de dados** e **criação de dashboards interativos** com **Power BI**.
 
 Durante o curso, foram desenvolvidos projetos práticos, utilizando uma combinação de ferramentas essenciais do mercado, com o objetivo de criar soluções eficientes para análise e visualização de dados. Cada desafio foi elaborado para aprimorar a capacidade de trabalhar com grandes volumes de dados, modelagem de dados e otimização de dashboards interativos.
 
@@ -34,7 +34,6 @@ Durante o curso, foram desenvolvidos projetos práticos, utilizando uma combina�
    - **Objetivo:** Desenvolver um projeto de vendas completo, com foco em análise preditiva e insights de mercado.
    - **Destaques:** Aplicação de técnicas de análise de dados avançada para tomada de decisões de negócios.
 
----
 
 ## 🔧 Tecnologias e Ferramentas Utilizadas:
 
@@ -44,18 +43,15 @@ Durante o curso, foram desenvolvidos projetos práticos, utilizando uma combina�
 - **MySQL**: Criação e manipulação de bancos de dados relacionais.
 - **Azure**: Integração com a plataforma de cloud para gestão de dados e automação de processos.
 
----
 
 ## 🎯 Objetivo do Projeto:
 
 Este repositório demonstra minha experiência em Engenharia de Dados, incluindo habilidades de análise de dados, automação e visualização interativa. Cada desafio é uma oportunidade para resolver problemas reais do mercado, utilizando as melhores práticas e tecnologias do setor de **Data Analytics** e **Business Intelligence**.
 
----
 
 ## 👨‍💻 Conecte-se Comigo:
 Sinta-se à vontade para entrar em contato comigo para discutir projetos, oportunidades de colaboração ou para saber mais sobre como posso ajudar sua empresa a obter insights valiosos a partir dos dados.
 
----
 
 ## Contato e Networking
 
@@ -66,13 +62,11 @@ Fique à vontade para entrar em contato ou acompanhar o progresso deste projeto:
 - GitHub 🐙: [jacivaldocarvalho](https://github.com/jacivaldocarvalho)
 - Medium ✍️: [jacivaldo-carvalho.medium.com](https://jacivaldo-carvalho.medium.com)
 
----
 
 ## Contribua
 
 Se você deseja contribuir com melhorias ou correções, sinta-se à vontade para abrir **issues** ou **pull requests**. A sua contribuição é muito bem-vinda! 
 
----
 
 ## Licença
 
